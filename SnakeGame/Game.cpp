@@ -16,7 +16,7 @@ Game::Game(){
     food.setPosition(250 + (25 * (rand() % 21)), 75 + (25 * (rand() % 15)));
 
     this->score = 0;
-    font.loadFromFile("font/Crossten-ExtraBold.ttf");
+    font.loadFromFile("../../font/Crossten-ExtraBold.ttf");
     this->scoreUI.setFont(this->font);
     this->scoreUI.setString("Score : " + std::to_string(this->score));
     this->scoreUI.setCharacterSize(30);
