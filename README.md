@@ -11,7 +11,7 @@ a linked list in react JS. His video is in this link: https://www.youtube.com/wa
 ```sh
 https://github.com/joshuainovero/Reverse-LL-in-a-Snake-Game.git
 ```
-2. If you do not have Mingw-w64 installed on your computer. You can download it on the link below:
+2. If you do not have Mingw-w64 installed on your computer. You can download it on the link below: <br></br>
 <a href="https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download">Download Mingw-w64</a>
 
 
