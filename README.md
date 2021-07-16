@@ -5,3 +5,10 @@ a linked list in react JS. His video is in this link: https://www.youtube.com/wa
 
 ## Graphics Library ##
 - <a href="https://github.com/SFML/SFML">SFML</a>
+
+## Local Setup ##
+1. Clone the repository
+```sh
+https://github.com/joshuainovero/Reverse-LL-in-a-Snake-Game.git
+```
+
