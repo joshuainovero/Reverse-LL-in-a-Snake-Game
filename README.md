@@ -20,3 +20,5 @@ mingw32-make
 ```
 This will compile all the source code and output its executable to SnakeGame/output folder.
 
+<img src="purple.png">
+
