@@ -21,9 +21,9 @@ mingw32-make
 This will compile all the source code and output its executable to SnakeGame/output folder.
 
 # Actual Gameplay #
-Red apple - Snake growth<br>
+Red apple - Snake growth<br><br>
 ![red](https://user-images.githubusercontent.com/78135477/125895090-9f05bf29-dc28-4919-b96e-cd45d73ec55b.png)
 <br><br><br>
-Purple apple (20% chance of spawning) - Snake growth + reversing the snake<br>
+Purple apple (20% chance of spawning) - Snake growth + reversing the snake<br><br>
 ![purple](https://user-images.githubusercontent.com/78135477/125894963-c2694c43-9692-48f6-93a3-289c695d7a87.png)
 
