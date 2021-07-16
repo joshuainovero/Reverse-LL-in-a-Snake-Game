@@ -18,5 +18,5 @@ https://github.com/joshuainovero/Reverse-LL-in-a-Snake-Game.git
 ```sh
 mingw32-make
 ```
-This will compile all the source code and output its executabule to SnakeGame/output folder.
+This will compile all the source code and output its executable to SnakeGame/output folder.
 
