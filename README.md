@@ -7,6 +7,7 @@ a linked list in react JS. His video is in this link: https://www.youtube.com/wa
 - <a href="https://github.com/SFML/SFML">SFML</a>
 
 ## Local Setup ##
+Only necessary if you want to tweak the code. Go to <a href="https://github.com/joshuainovero/Reverse-LL-in-a-Snake-Game/releases/tag/1.0">Release</a> for direct gameplay.
 1. Clone the repository
 ```sh
 https://github.com/joshuainovero/Reverse-LL-in-a-Snake-Game.git
